@@ -1,0 +1,12 @@
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/bin/Release/net5.0/StringLibrary.deps.json
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/bin/Release/net5.0/StringLibrary.dll
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/bin/Release/net5.0/ref/StringLibrary.dll
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/bin/Release/net5.0/StringLibrary.pdb
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/obj/Release/net5.0/StringLibrary.csprojAssemblyReference.cache
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/obj/Release/net5.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/obj/Release/net5.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/obj/Release/net5.0/StringLibrary.AssemblyInfo.cs
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/obj/Release/net5.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/obj/Release/net5.0/StringLibrary.dll
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/obj/Release/net5.0/ref/StringLibrary.dll
+/Users/laurencewalshe/development/100-days-of-code/ClassLibraryProjects/StringLibrary/obj/Release/net5.0/StringLibrary.pdb
