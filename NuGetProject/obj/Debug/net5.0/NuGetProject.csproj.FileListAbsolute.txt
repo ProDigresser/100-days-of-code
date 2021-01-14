@@ -1,0 +1,17 @@
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/bin/Debug/net5.0/NuGetProject.deps.json
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/bin/Debug/net5.0/NuGetProject.runtimeconfig.json
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/bin/Debug/net5.0/NuGetProject.runtimeconfig.dev.json
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/bin/Debug/net5.0/NuGetProject.dll
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/bin/Debug/net5.0/ref/NuGetProject.dll
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/bin/Debug/net5.0/NuGetProject.pdb
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.csprojAssemblyReference.cache
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.AssemblyInfoInputs.cache
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.AssemblyInfo.cs
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.csproj.CoreCompileInputs.cache
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.dll
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/ref/NuGetProject.dll
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.pdb
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.genruntimeconfig.cache
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/laurencewalshe/development/100-days-of-code/NuGetProject/obj/Debug/net5.0/NuGetProject.csproj.CopyComplete
